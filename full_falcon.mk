@@ -30,7 +30,7 @@ $(call inherit-product, device/motorola/falcon/device_falcon.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := falcon
-PRODUCT_NAME := full_falcon
+PRODUCT_NAME := crom_falcon
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := falcon
 PRODUCT_MANUFACTURER := motorola
